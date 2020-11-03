@@ -1,0 +1,12 @@
+th
+{
+    font-style: italic;
+}
+tbody>tr:nth-of-type(odd)
+{
+    background-color: green;
+}
+tbody>tr:nth-of-type(even)
+{
+    background-color: red;
+}

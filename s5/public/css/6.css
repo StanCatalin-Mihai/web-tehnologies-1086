@@ -1,0 +1,16 @@
+article>section
+{
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    white-space: pre;
+}
+section::first-letter
+{
+    font-size: 2em;
+}
+section::selection
+{
+    background-color: black;
+    color: white;
+}
