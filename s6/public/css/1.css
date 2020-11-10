@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    line-height: 100vh;
+}
+.container
+{
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    text-align: center;
+    margin: auto;
+    line-height: 200px;
+    display: inline-block;
+}
